@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Noaman</h1>
 <h3 align="center">A passionate computer engineering student</h3>
 <div id="header" align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="800"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="700"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abdulrahman-noaman-78b362205/">
