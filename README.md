@@ -40,6 +40,7 @@ I am a Computer Engineering student <img src="https://media.giphy.com/media/WUlp
 ### :fire: My Stats :
 
 <div align="center">
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanNoaman&show_icons=true&theme=radical&count_private=true)
 
   <br>
