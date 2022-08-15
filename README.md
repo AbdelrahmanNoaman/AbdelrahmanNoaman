@@ -3,7 +3,7 @@
 <div id="header" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abdulrahman-noaman-78b362205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
