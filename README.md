@@ -3,6 +3,14 @@
 <div id="header" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600"/>
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abdulrahman-noaman-78b362205/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/3abdelrahman.no3man/">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  </a>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelrahmannoaman&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmannoaman" /> </p>
 
