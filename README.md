@@ -2,7 +2,9 @@
 <h3 align="center">A passionate computer engineering student</h3>
 <img align="center" alt="coding" width=600px
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<div id="header" align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelrahmannoaman&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmannoaman" /> </p>
 
