@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/abdulrahman-noaman-78b362205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+<a href=https://codeforces.com/profile/abdelrahman.ebrahim01">
+    <img src="https://img.shields.io/badge/CodeForces-red?style=for-the-badge&logo=CodeForces&logoColor=white" alt="CodeForces Badge"/>
+  </a>
   <a href="https://www.facebook.com/3abdelrahman.no3man/">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
