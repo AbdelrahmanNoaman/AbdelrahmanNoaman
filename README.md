@@ -28,7 +28,7 @@ I am a Software Engineering student <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I solve problems on Codeforces and reading books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-noaman-78b362205/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-noaman-78b362205/)
 
 ---
 
