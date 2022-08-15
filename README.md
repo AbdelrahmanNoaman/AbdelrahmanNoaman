@@ -37,8 +37,7 @@ I am a Software Engineering student <img src="https://media.giphy.com/media/WUlp
 ---
 
 ### :fire: My Stats :
-<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdelrahmanNoaman&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanNoaman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
