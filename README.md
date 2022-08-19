@@ -43,12 +43,12 @@ I am a Computer Engineering student <img src="https://media.giphy.com/media/WUlp
 <br>
 <p align=center>
   <div align=center>
-      <img align="left" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanNoaman&theme=react&border=61dafb&hide_border=true" alt="AbdelrahmanNoaman" />
+      <img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanNoaman&theme=react&border=61dafb&hide_border=true" alt="AbdelrahmanNoaman" />
   </div>
 
 
   <div align=center>
-      <img align="right" width=500 src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanNoaman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanNoaman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
