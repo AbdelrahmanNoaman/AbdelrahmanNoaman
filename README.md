@@ -1,19 +1,25 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Abdelrahman+Noaman....;Nice+to+meet+you!&center=true&size=23">
 </h1>
-<h3 align="center">A passionate computer engineering student</h3>
-<div id="header" align="center">
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="800"/>
-</div>
+<h3 align="center">A passionate Software Engineer</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding Guy" width="800" />
+</p>
 <div id="badges" align="center">
+  <a href="mailto:bodynoaman1996@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/abdulrahman-noaman-78b362205/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href=https://codeforces.com/profile/abdelrahman.ebrahim01">
-    <img src="https://img.shields.io/badge/CodeForces-red?style=for-the-badge&logo=CodeForces&logoColor=white" alt="CodeForces Badge"/>
+  <a href="https://leetcode.com/u/bodynoaman1996/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
   </a>
-  <a href="https://www.facebook.com/3abdelrahman.no3man/">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  <a href="https://codeforces.com/profile/abdelrahman.ebrahim01">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" alt="CodeForces Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@Nu3man">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
@@ -21,42 +27,120 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Computer Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+## 💻 About Me
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on Codeforces and reading books.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-noaman-78b362205/)
+- 👨‍💻 I’m a Software Engineer @[MD-Labs](https://md-labs.net/)
+- 🔭 Past Experiences:
+  
+  - TA @[Cairo University Faculty Of Engineering](https://eng.cu.edu.eg/)
+    
+  - Backend Engineer @[eSeed](https://eseed.net/)
+    
+  - Integration Engineer Intern @[EJADA](https://www.ejada.com/)
+    
+  - Web Developer [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
+    
+  - .Net Developer Trainee @[ITI](https://iti.gov.eg/iti/home)
+    
+  - Web Development Trainee @[NTI](https://www.nti.sci.eg/)
+    
+  - Artificial Intelligence Trainee @[ITI](https://iti.gov.eg/iti/home)
+ 
+  - Technology Internship @[Etisalat by e&](https://www.eand.com.eg/)
+    
+- 🏆 Graduated From Faculty of Engineering Cairo University (Computer Depatment) and ranked  **6th**
+- 🌐 Currently working with **Next.js, React.js, NestJS, Node.js, TypeScript**
+- 💡 Deeply passionate about **Backend Engineering**, **Databases**, **DevOps**, and **Problem Solving**
+- ⚙️ Skilled in building **robust APIs**, **scalable systems**, and efficient infrastructure pipelines
+- 📘 I’m dedicated to growing my knowledge through books:
+  - ✅ _Head First Design Patterns_
+  - ✅ _Clean Code_
+  - 📖 Currently reading _Designing Data-Intensive Applications_
+- 🤝 Always happy to **collaborate, help out, or mentor** — feel free to connect or message me!
+- 🎯 Passionate about building tools that **make a real impact**
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+## 💼 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+<code><img height="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+<code><img height="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+<code><img height="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
+<code><img height="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="40" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="40" title="Assembly" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-cpu-coding-and-development-flat-flat-juicy-fish.png"></code>
+
+<br />
+
+### 🌐 Web Development (Frontend & Backend)
+<code><img height="40" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="40" title="ExpressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+<code><img height="40" title="NestJS" src="https://nestjs.com/img/logo-small.svg"></code>
+<code><img height="40" title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="40" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
+<code><img height="40" title="Ant Design" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg"></code>
+<code><img height="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img height="40" title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img height="40" title="IndexedDB" src="https://blog.openreplay.com/assets/hero_Z1dui6O.png"></code>
+
+<br />
+
+### 🛢️ Databases & ORMs
+<code><img height="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img height="40" title="SQL Server" src="https://img.icons8.com/color/48/microsoft-sql-server.png"></code>
+<code><img height="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="40" title="Oracle" src="https://img.icons8.com/color/48/oracle-logo.png"></code>
+<code><img height="40" title="PL/SQL" src="https://img.icons8.com/color/48/sql.png"></code>
+<code><img height="40" title="Sequelize" src="https://sequelize.org/img/logo.svg"></code>
+<code><img height="40" title="Mongoose" src="https://raw.githubusercontent.com/mongodb-js/mongoose/master/docs/images/mongoose5_62x30_transparent.png"></code>
+<code><img height="40" title="TypeORM" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png"></code>
+
+<br />
+
+### ⚙️ Tools
+<code><img height="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="40" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img height="40" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+<code><img height="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="40" title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"></code>
+<code><img height="40" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></code>
+
+
+<br />
+
+### 🧪 Testing Frameworks
+<code><img height="40" title="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></code>
+<code><img height="40" title="Jasmine" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"></code>
+
+<br />
+
+### 🧠 Machine Learning & Computer Vision
+<code><img height="40" title="Tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
+<code><img height="40" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
+<code><img height="40" title="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></code>
+
+</div>
 
 ---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanNoaman&theme=react&border=61dafb&hide_border=true" alt="AbdelrahmanNoaman" />
-  </div>
+## 📈 GitHub Stats
 
-
-  <div align=center>
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanNoaman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanNoaman&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AbdelrahmanNoaman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmannoaman&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmannoaman&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
 
