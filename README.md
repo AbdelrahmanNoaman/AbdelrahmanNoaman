@@ -31,7 +31,7 @@
     
   - Backend Engineer @[eSeed](https://eseed.net/)
     
-  - Integration Engineer Intern @[EJADA](https://www.ejada.com/)
+  - Database Engineer Intern @[EJADA](https://www.ejada.com/)
     
   - Web Developer [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
     
