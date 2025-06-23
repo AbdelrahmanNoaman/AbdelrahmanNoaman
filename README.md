@@ -12,6 +12,7 @@
 
 ## 📫 Let’s Connect
 
+
 <div id="badges" align="left">
   <a href="mailto:bodynoaman1996@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   <a href="https://www.linkedin.com/in/abdulrahman-noaman-78b362205/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
